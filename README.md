@@ -3,6 +3,8 @@ DataTableProxy
 
 A quick utility class for converting IEnumerables into easily bindable DataTables. Available as a [NuGet Package][1]. 
 
+This version has been ported forward to netstandard 2.0
+
 Usage:
 ```csharp
 var dtp = new DataTableProxy<YourObject>();
@@ -48,4 +50,4 @@ THIS SOFTWARE IS PROVIDED ''AS IS'' AND WITHOUT ANY EXPRESS OR
 IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
-   [1]: http://nuget.org/packages/DataTableProxy/
+   [1]: https://www.nuget.org/packages/datatableproxy.netstandard20/

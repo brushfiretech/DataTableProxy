@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Company>Brushfire</Company>
+    <Authors>Tom Dietrich, Jason Shigley</Authors>
+    <PackageId>datatableproxy.netstandard20</PackageId>
+    <RepositoryUrl>https://github.com/brushfiretech/datatableproxy</RepositoryUrl>
+    <RepositoryType>.net</RepositoryType>
+    <Description>Converts IEnumerables into Datatables for easy binding</Description>
+    <PackageTags>DataTable IEnumerable</PackageTags>
+    <PackageReleaseNotes>Fluent Syntax, IEnumerable extensions and Reflection features.</PackageReleaseNotes>
+  </PropertyGroup>
+
+</Project>
